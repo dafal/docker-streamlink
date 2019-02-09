@@ -1,2 +1,2 @@
 # docker-streamlink
-Simple streamline docker image
+Simple streamlink docker image
